@@ -3,6 +3,8 @@ import axios from 'axios'
 import UserItem from './UserItem'
 import Spinner from '../commons/Spinner'
 
+// For listing of users
+
 class UserList extends React.Component {
     constructor(props) {
         super(props) 
